@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Rajan
+## Visit my personal website: https://rajansapkota.com
+
+
 
 <!--
 **rrajann/rrajann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
